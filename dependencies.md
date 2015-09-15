@@ -1,9 +1,9 @@
 # Google Apps Script Project: cFlatten
-This repo (cFlatten) was automatically updated on 02 March 2015 19:32:59 GMT by GasGit
+This repo (cFlatten) was automatically updated on 15 September 2015 11:49:01 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cFlatten
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [cFlatten is here](https://script.google.com/d/12actArnmhP0hZTQng9Ysav1ZA3xfrkm1JA024mxDx4x4MEcPlc8Y2YDY/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of cFlatten.gs included in this repo
@@ -16,6 +16,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)
