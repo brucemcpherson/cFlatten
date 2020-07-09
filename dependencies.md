@@ -1,5 +1,5 @@
 # Google Apps Script Project: cFlatten
-This repo (cFlatten) was automatically updated on 31 October 2018 11:39:37 GMT by GasGit
+This repo (cFlatten) was automatically updated on 09 July 2020 12:29:17 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cFlatten
